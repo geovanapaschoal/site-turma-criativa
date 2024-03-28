@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'popping', sans-serif;
+}
+
 .cabecalho {
    background-color: #424e61;
    color: white;
